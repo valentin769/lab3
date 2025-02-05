@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1042420670013",
+    "project_id": "aplikacija-7cef3",
+    "storage_bucket": "aplikacija-7cef3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042420670013:android:a562fe14d3714cfe5b5454",
+        "android_client_info": {
+          "package_name": "com.example.lab1_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFg2apKrGArBmut4c_85gT8kmAIENnSdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
